@@ -3,8 +3,8 @@ title: Presentacion Sonic Pi
 email: lagrimaescrita@gmail.com
 description: >
 
-baseurl: ""
-url: ""
+baseurl: "https://rubentr.github.io/introduccion-sonic-pi"
+url: "https://rubentr.github.io"
 
 timezone: Europe/Madrid
 
