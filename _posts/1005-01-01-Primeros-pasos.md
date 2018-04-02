@@ -4,7 +4,7 @@ layout: presentation
 
 ## Primeros pasos
 
-```Ruby
+```
 play 50
 play :D3
 ```

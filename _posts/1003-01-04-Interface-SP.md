@@ -4,6 +4,6 @@ layout: presentation
 ---
 
 ## Interface Sonic Pi
-### ![interface](/images/interface.png)
+### ![interface]({{ site.baseurl }}/images/interface.png)
 
 

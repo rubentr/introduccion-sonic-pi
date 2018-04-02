@@ -4,6 +4,6 @@ layout: presentation
 
 ## Las diferentes notas en SP ...
 
-![notas](/images/notas.png)
+![notas]({{ site.baseurl }}/images/notas.png)
 
-![notas](/images/notas2.png)
+![notas]({{ site.baseurl }}/images/notas2.png)
