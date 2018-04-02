@@ -7,3 +7,6 @@ baseurl: "/presentacion-sonic-pi"
 url: "https://rubentr.github.io/"
 
 timezone: Europe/Madrid
+
+markdown: kramdown
+highlighter: rouge

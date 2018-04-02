@@ -3,7 +3,7 @@ title: que es el livecoding?
 layout: presentation
 ---
 
-![algorave](/images/algorave.png)
+![algorave]({{ site.baseurl }}/images/algorave.png)
 
 ## ¿Qué es el livecoding?
 
