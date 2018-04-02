@@ -1,23 +1,7 @@
-# web-presentation
+# Presentation Sonic Pi
 
-Project is designed to quickly build presentation as a web page.
+Presentación creada para los talleres de introducción al [live coding](https://en.wikipedia.org/wiki/Live_coding) realizados en los Centros Sociales de La Ingobernable y en La Salamandra de Madrid, en febrero de 2018.
 
-To create your presentation just fork this repository.
+Está realizada con [jekyll](https://jekyllrb.com) y el tema *web-presentation* de [deepidea](https://github.io/deepidea)
 
-presentation example https://deepidea.github.io/web-presentation/
-
-
-**NOTES**
-
-- Files names should start with valid  year-month-day format (f.e. 1000-01-01-example.md)
-
-- Years will be displayed horizontally  
-
-- Months will be displayed as vertical navigation in a given year
-
-- Presentation pages will be displayed in chronological order
-
-- Githib pages will automatically generate/update website with presentation for you (please wait up to 1 minute)
-
-
-Enjoy
+Sois libres de *forkearla* y modificarla a gusto.
